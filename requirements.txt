@@ -1,0 +1,4 @@
+selenium==4.23.0
+beautifulsoup4==4.12.3
+questionary==2.0.1
+keyboard==0.13.5
